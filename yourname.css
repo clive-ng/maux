@@ -1,0 +1,23 @@
+
+
+body {
+background: white;
+color: black;
+font-family: Arial, sans-serif;
+
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+button {
+padding: 8px 12px;
+border-radius: 6px;
+}
+
+button:hover {
+  background: #ddd;
+}
